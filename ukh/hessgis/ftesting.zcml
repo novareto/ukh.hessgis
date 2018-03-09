@@ -1,0 +1,11 @@
+<configure
+   xmlns="http://namespaces.zope.org/zope"
+   i18n_domain="ukh.hessgis"
+   package="ukh.hessgis"
+   >
+
+  <includeOverrides package="uvcsite" file="ftesting.zcml"/>
+  <include package="ukh.hessgis" />
+
+</configure>
+

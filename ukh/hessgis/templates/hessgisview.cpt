@@ -1,0 +1,111 @@
+<h1>Hessisches Gefahrstoff-Informationssystem Schule (HessGISS)</h1>
+<br/>
+<p>Die aktuelle Version ist 2017/2018 (V 22.0)</p>
+<p>HessGISS steht Ihnen als Landesversion des Deutschen Gefahrstoff-InformationsSystem Schule (D-GISS) kostenfrei zum Download zur Verfügung.</p>
+<p>HessGISS darf ausschließlich an Hessischen Schulen verwendet werden.</p>
+
+<br/>
+
+<h3>Download - Übersicht</h3>
+
+<ul>
+  <li>
+    <p>
+      HessGISS - Texte und Datenbank
+      <a target="_blank" href="/fanstatic/ukh.hessgis/hessgiss-17-18-setup.exe"><font color="#0000FF"> Download </font></a>
+      der Installationsdatei (ca. 34 MB)
+    </p>
+  </li>
+
+  <br/>
+
+  <li>
+    <p>
+      Für den Betrieb der Datenbank wird Microsoft Access (Version 2003, 2007, 2010, 2013 oder 2016) benötigt.
+      <br/>
+      Anwender ohne Vollversion können sich bei Microsoft eine Runtime-Version von Access 2007, 2010 bzw. 2016 herunterladen.
+    </p>
+    <a target="_blank" href="http://www.microsoft.com/de-de/download/details.aspx?id=4438"><font color="#0000FF"> Download Access 2007 Runtime-Version </font></a>
+    <br/>
+    <a target="_blank" href="https://www.microsoft.com/de-de/download/details.aspx?id=10910"><font color="#0000FF"> Download Access 2010 Runtime-Version </font></a>
+    <br/>
+    <a target="_blank" href="https://www.microsoft.com/de-de/download/details.aspx?id=39358"><font color="#0000FF"> Download Access 2013 Runtime-Version </font></a>
+    <br/>
+    <a target="_blank" href="https://www.microsoft.com/de-DE/download/details.aspx?id=50040"><font color="#0000FF"> Download Access 2016 Runtime-Version </font></a>
+  </li>
+
+  <br/>
+
+  <li>
+    <p>
+      Wer sich eine CD-ROM mit allen Dateien selbst brennen möchte, kann sich eine ISO-Datei herunterladen.
+      <br/>
+      Mit dieser Datei kann man mittels üblicher Brennprogramme (Nero, Roxio usw.) eine CD erstellen.
+      <br/>
+      Achtung! Der Download dauert etwas länger! (ca. 270 MB)
+      <a target="_blank" href="/fanstatic/ukh.hessgis/HessGISS2017-18.iso"><font color="#0000FF"> Download der ISO-Datei </font></a> (ca. 270 MB)
+    </p>
+  </li>
+
+</ul>
+
+<p>
+  Weitere Informationen zu HessGISS finden Sie unter
+  <a target="_blank" href="http://www.hessgiss.de"> www.hessgiss.de </a>.
+</p>
+
+<br/>
+
+<h3>Support</h3>
+
+<p>
+  Falls Sie Hilfe für die Installation oder den Umgang mit HessGISS benötigen, prüfen Sie bitte zunächst,
+  <br/>
+  ob sich das Problem über die Hinweise im Programmhandbuch oder auf der Webseite lösen lässt.
+  <br/>
+  Falls nicht, schicken Sie eine E-MAIL an die unten stehende Support-Adresse.
+</p>
+<p>
+  Beschreiben Sie möglichst genau Ihr Problem und nennen Sie:
+</p>
+<ul>
+  <li>
+    Das verwendete Betriebssystem (Win 7, Win 8.1 oder Win 10)
+  </li>
+  <li>
+    Die Access-Version (2003, 2007, 2010, 2013 oder 2016 als Vollversion oder als Runtime-Version)
+  </li>
+  <li>
+    Die Versionen der ergänzenden Software (Office bzw. Word und Excel)
+  </li>
+  <li>
+    Eingespielte Service-Packs
+  </li>
+  <li>
+    Hilfreich ist auch ggf. ein Screenshot, der das Problem bzw. die Fehlermeldung dokumentiert.
+  </li>
+  <li>
+    Supportadresse:
+    <a href="mailto:support@hessgiss.de"> support@hessgiss.de </a>
+  </li>
+</ul>
+
+<br/>
+
+<h3>Wie lautet das Passwort?</h3>
+
+<p>
+  Das Passwort lautet in der Voreinstellung "passwort".
+  <br/>
+  Falls es geändert wurde und verloren gegangen ist, packen Sie die Datenbank (Giss2017.mde, ca. 200MB) als ZIP-Datei
+  <br/>
+  (rechter Mausklick -> Senden an -> Zip-komprimierter Ordner) und mailen es an
+  <a href="mailto:hildebrandt@hessgiss.de"> hildebrandt(at)hessgiss.de </a>.
+</p>
+
+
+
+
+
+
+
